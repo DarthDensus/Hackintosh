@@ -4,6 +4,6 @@
 # Fujitsu Lineup
 
 Ich lade hier die EFI Ordner hoch mit der man anschließend macOS installieren kann. 
-Verbesserugen an meiner Konfiguration begrüße ich und würde diese dann auch hier wieder hochladen.
+Verbesserungen an meiner Konfiguration begrüße ich und würde diese, dann auch hier wieder hochladen.
 
-Viel spass beim hackintoshen! 
+Viel spaß beim hackintoshen! 
