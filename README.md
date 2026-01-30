@@ -1,6 +1,8 @@
 # Hackintosh
 
-Ich lade hier die EFI Ordner hoch mit der man anschließend macOS installieren kann. 
-Verbesserungen an meiner Konfiguration begrüße ich und würde diese, dann auch hier wieder hochladen.
+Ich lade hier die EFI-Ordner hoch, mit denen anschließend macOS installiert werden kann.
+Verbesserungen an meiner Konfiguration sind jederzeit willkommen – diese würde ich anschließend ebenfalls hier wieder hochladen.
 
-Viel spaß beim hackintoshen! 
+Bitte beachtet, dass ich ausschließlich noch Systeme veröffentliche, die mit macOS Tahoe laufen.
+
+Viel Spaß beim Hackintoshen! 🍏💻
